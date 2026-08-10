@@ -12,4 +12,5 @@
   <project path="vendor/nxp/opensource/halimpl" name="AOSPA/android_vendor_nxp_opensource_halimpl" remote="aospa" revision="uvite-SN100X-legacy" />
   <project path="vendor/nxp/opensource/hidlimpl" name="AOSPA/android_vendor_nxp_opensource_hidlimpl" remote="aospa" revision="uvite-SN100X-legacy" />
   <project path="vendor/xiaomi/munch" name="android_vendor_xiaomi_munch" remote="paranoid-munch" revision="beryl" clone-depth="1" />
+  <project path="vendor/xiaomi/miuicamera" name="android_vendor_xiaomi_miuicamera" remote="paranoid-munch" revision="beryl" clone-depth="1" />
 </manifest>
